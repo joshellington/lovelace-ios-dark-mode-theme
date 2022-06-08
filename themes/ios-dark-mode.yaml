@@ -55,7 +55,7 @@ ios-dark-mode:
   card-background-color: var(--secondary-background-color)  # Unused entities table background
   paper-listbox-background-color: var(--primary-background-color)
   ha-card-border-radius: 20px
-  ha-card-background: rgba(10, 10, 10, 0.7)
+  ha-card-background: rgba(10, 10, 10, 0.9)
   paper-card-background-color: var(--ha-card-background)
   code-editor-background-color: var(--disabled-text-color)
   # Toggles
