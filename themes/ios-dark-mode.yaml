@@ -9,7 +9,7 @@ ios-dark-mode:
   primary-color: "#ad642b"  # from Apple systemOrange dark mode
   light-primary-color: "#B6B6C1"  # light gray (icons on left menu)
   primary-background-color: "#2c2c2e"  # systemGray5 dark mode
-  secondary-background-color: rgba(25, 25, 25, 0.7)
+  secondary-background-color: rgba(25, 25, 25, 0.9)
   divider-color: "#98989d"  # from Apple systemGray dark mode
   accent-color: rgba(255, 159, 9, 1)
   # Text
